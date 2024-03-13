@@ -19,12 +19,6 @@ export default async function Home() {
 
   //Init Perfection Helpers
   await oversiteHelpers.init("homepage");
-  //New
-  const instances = await getPerfectionStyles("homepage");
-  console.log(instances);
-  const helpers = oversiteHelpers.initWith(instances);
-  console.log(helpers);
-  //const section = helpers.section.find("relatedArticles");
 
   return (
     <>

@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@perfectiondev/oversite": "^1.0.61",
-    "@perfectiondev/oversite-helpers": "^1.0.5",
+    "@perfectiondev/oversite": "^1.0.82",
+    "@perfectiondev/oversite-helpers": "^1.0.6",
     "next": "14.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
